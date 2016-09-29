@@ -617,6 +617,7 @@ footer span.copyright {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   text-transform: none;
+  text-align: center;
 }
 footer ul.quicklinks {
   margin-bottom: 0;
